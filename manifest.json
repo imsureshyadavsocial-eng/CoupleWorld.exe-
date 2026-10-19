@@ -1,0 +1,9 @@
+{
+  "name": "CoupleWorld Pro",
+  "short_name": "CoupleWorld",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f1ff",
+  "theme_color": "#241338",
+  "description": "Cute, funny and shareable messages for couples and friends."
+}
